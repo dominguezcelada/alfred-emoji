@@ -4,8 +4,8 @@ rebaseMergeAllowed: true
 
 # Whether or not squash-merging is enabled on this repository.
 # Defaults to `true`
-squashMergeAllowed: false
+squashMergeAllowed: true
 
 # Whether or not PRs are merged with a merge commit on this repository.
 # Defaults to `false`
-mergeCommitAllowed: false
+mergeCommitAllowed: true
